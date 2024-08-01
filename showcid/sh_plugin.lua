@@ -17,7 +17,7 @@ ix.command.Add("ShowCID", {
 		local cid = client:GetCharacter():GetInventory():HasItem("cid")
 
         if !cid then --if the character doesn't have a cid on him and the players runs the command on his current character
-            ix.chat.Send(client, "me", "I am really sorry but I don't have any card on me...")
+            ix.chat.Send(client, "me", L("noCIDSentence"))
             return "@noCIDFound"
         end
 
