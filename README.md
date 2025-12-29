@@ -11,20 +11,20 @@ Use it at your convenience, I hope it will be useful to your project !
 Self explicit. Will prevent your player to "sprint" (by default SHIFT key) backward, left and right side.
 No optimization found.
 
-# ShowCID
+## ShowCID
 A command that can be run by a player (which play a character) to display critical informations about its own identity. 
 
-# Spoiled Items
+## Spoiled Items
 Will be uploaded soon.
 **Note :** This is unfinished work.
 
-# Plane Loot Drop
+## Plane Loot Drop
 Will be uploaded soon.
 **Note :** It can clearly be improved.
 
-# Corpse Search
+## Corpse Search
 Will be uploaded soon.
 
-# Join/Left Logger
+## Join/Left Logger
 Will be uploaded soon.
 **Note :** If you can't manage to run or execute SQL commands, it won't be useful neither give you any insightful trends.
