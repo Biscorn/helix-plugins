@@ -16,9 +16,11 @@ A command that can be run by a player (which play a character) to display critic
 
 # Spoiled Items
 Will be uploaded soon.
+**Note :** This is unfinished work.
 
 # Plane Loot Drop
 Will be uploaded soon.
+**Note :** It can clearly be improved.
 
 # Corpse Search
 Will be uploaded soon.
