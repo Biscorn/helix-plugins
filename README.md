@@ -6,3 +6,6 @@ Feel free to reach me on Discord **#hern9**, but I do not provide __personnal su
 If you have any suggestions or bug related to a plugin, open an [issue](https://github.com/Biscorn/helix-plugins/issues).
 
 Use it at your convenience, I hope it will be useful to your project !
+
+# Sprinting Prevention
+Self explicit. Will prevent your player to "sprint" (by default SHIFT key) backward, left and right side.
