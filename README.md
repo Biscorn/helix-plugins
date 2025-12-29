@@ -7,7 +7,7 @@ If you have any suggestions or bug related to a plugin, open an [issue](https://
 
 Use it at your convenience, I hope it will be useful to your project !
 
-# Sprinting Prevention
+## Sprinting Prevention
 Self explicit. Will prevent your player to "sprint" (by default SHIFT key) backward, left and right side.
 No optimization found.
 
