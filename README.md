@@ -19,9 +19,10 @@ If the player doesn't have its own CID - the card itself - in his inventory, he 
 
 ## Spoiled Items
 Will be uploaded soon.
-> **Note :** Does nothing on its own. You need additionnal Lua skills to do something with. For example, imagine you have an attribute plugin... and then you implement it with the spoil system.
 
-**Note :** This is unfinished work.
+ **Note :** Does nothing on its own. You need additionnal Lua skills to do something with. For example, imagine you have an attribute plugin... and then you implement it with the spoil system.
+
+> **Note :** This is unfinished work.
 
 ## Plane Drop
 Will be uploaded soon.
