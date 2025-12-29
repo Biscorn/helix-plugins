@@ -29,4 +29,4 @@ Will be uploaded soon.
 
 ## Join/Left Player Base Logger
 Will be uploaded soon.
-> **Note :** If you can't manage to run or execute SQL commands, it won't be useful neither give you any insightful trends.
+> **Note :** If you can't manage to run or execute SQL commands (queries), it won't be useful neither give you any insightful trends.
