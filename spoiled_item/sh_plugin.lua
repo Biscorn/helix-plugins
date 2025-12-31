@@ -3,7 +3,7 @@ local PLUGIN = PLUGIN
 
 PLUGIN.name = "Spoiled items"
 PLUGIN.author = "Hern"
-PLUGIN.description = "Item that can be marked as spoiled."
+PLUGIN.description = "Item that can be marked as spoiled and will help you to build an integrated spoiled system."
 
 ix.util.Include("cl_hooks.lua")
 
