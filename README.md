@@ -10,28 +10,35 @@ Don't forget to credit my work at least.
 
 ## Sprinting Prevention
 Self explicit. Will prevent your player to "sprint" (by default the SHIFT key from the client) backward, left and right side.
-> **Note :** You don't need to specify the pressed client key.
-> No optimization has been found.
+
+**Note :** You don't need to specify the pressed client key.
 
 ## ShowCID
-A command that can be run by a player (which play a character) to display critical informations about its own identity (such as name, and ID).
-If the player doesn't have its own CID - the card itself - in his inventory, he will say something else than its informations.
+Description : A command that can be run by a player (which play a character) to display critical informations about its own identity (such as name, and ID).
+Check the configuration for extra features and better control.
+
+## Unique CID
+Description : Don't you ever dream to identify each citizen uniquely ? Well, with this plugin, your dream will become true !
+
+**Note :** Will be uploaded soon.
 
 ## Spoiled Items
-Will be uploaded soon.
+Description : Using the base_food entity base, you will be able to make specific entity that can be marked as "spoiled".
 
 **Note :** Does nothing on its own. You need additionnal Lua skills to do something with. 
-For example, if you had an "attribute" plugin working with boost etc.
-
-> **Note :** This is unfinished work.
+For example, if you have an "attribute" plugin the system will be interesting.
 
 ## Plane Drop
-Will be uploaded soon.
-> **Note :** It can clearly be improved.
+Description : An airplane will cross the map and drop cases with loot inside each crate (up to 3). Each crate is randomly generated.
+
+**Note :** It can clearly be improved and optimized at some point (usage of the think function, item shuffling, configuration for better control...).
+It has been tested on gm_construct.
 
 ## Corpse Search
-Will be uploaded soon.
+**Note :** Will be uploaded soon.
 
 ## Join/Left Player Base Logger
-Will be uploaded soon.
+Description : A logger connection logger for your administration team. Each player that is joining or leaving will be registered with its informations (such as IP address). It can be really useful as it can give you trends about your player base or might help you identify unexpected connection pattern or malicious activities.
+
+**Note :** Will be uploaded soon.
 > **Note :** If you can't manage to run or execute SQL commands (queries), it won't be useful neither give you any insightful trends.
