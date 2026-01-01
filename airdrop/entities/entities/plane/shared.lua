@@ -1,0 +1,9 @@
+ENT.Base = "base_entity"
+ENT.Type = "anim"
+ENT.PrintName = "Base NPC"
+ENT.Author = "heRn"
+ENT.Category = "NPC - Apocalypse"
+ENT.Spawnable = true
+ENT.AdminOnly = true
+ENT.bNoPersist = true
+ENT.PhysgunDisabled = true
