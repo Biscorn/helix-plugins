@@ -9,7 +9,7 @@ Use it at your convenience, I hope it will be useful to your project !
 Don't forget to credit my work at least.
 
 ## Sprinting Prevention
-Self explicit. Will prevent your player to "sprint" (by default the SHIFT key from the client) backward, left and right side.
+Description : Self explicit. Will prevent your player to "sprint" (by default the SHIFT key from the client) backward, left and right side.
 
 **Note :** You don't need to specify the pressed client key.
 
@@ -18,12 +18,12 @@ Description : A command that can be run by a player (which play a character) to 
 Check the configuration for extra features and better control.
 
 ## Unique CID
-Description : Don't you ever dream to identify each citizen uniquely ? Well, with this plugin, your dream will become true !
+Description : Don't you ever dreamt to identify each citizen uniquely ? Well, with this plugin, your dream will become true !
 
 **Note :** Will be uploaded soon.
 
 ## Spoiled Items
-Description : Using the base_food entity base, you will be able to make specific entity that can be marked as "spoiled".
+Description : Use the base_food entity base to make specific entity that can be marked as "spoiled".
 
 **Note :** Does nothing on its own. You need additionnal Lua skills to do something with. 
 For example, if you have an "attribute" plugin the system will be interesting.
@@ -38,7 +38,7 @@ It has been tested on gm_construct.
 **Note :** Will be uploaded soon.
 
 ## Join/Left Player Base Logger
-Description : A logger connection logger for your administration team. Each player that is joining or leaving will be registered with its informations (such as IP address). It can be really useful as it can give you trends about your player base or might help you identify unexpected connection pattern or malicious activities.
+Description : A connection logger for your administration team. Register your players with its informations (such as IP address) etc. It can be really useful as it can give you trends about your player base or might help you identify unexpected connection pattern or malicious activities. Use it 
 
 **Note :** Will be uploaded soon.
 > **Note :** If you can't manage to run or execute SQL commands (queries), it won't be useful neither give you any insightful trends.
