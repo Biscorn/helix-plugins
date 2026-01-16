@@ -25,20 +25,19 @@ Description : Don't you ever dreamt to identify each citizen uniquely ? Well, wi
 ## Spoiled Items
 Description : Use the base_food entity base to make specific entity that can be marked as "spoiled".
 
-**Note :** Does nothing on its own. You need additionnal Lua skills to do something with. 
-For example, if you have an "attribute" plugin the system will be interesting.
+**Note :** Does nothing on its own. You need additionnal Lua skills.
+For example, if you have an "attribute" plugin the system will be interesting to implement with.
 
 ## Plane Drop
-Description : An airplane will cross the map and drop cases with loot inside each crate (up to 3). Each crate is randomly generated.
+Description : An airplane will cross the map and randomly drop cases with loot inside each crate (up to 3), and configurable. Each crate is randomly generated and its content is randomly generated according to a config file.
 
 **Note :** It can clearly be improved and optimized at some point (usage of the think function, item shuffling, configuration for better control...).
-It has been tested on gm_construct.
 
 ## Corpse Search
 **Note :** Will be uploaded soon.
 
 ## Join/Left Player Base Logger
-Description : A connection logger for your administration team. Register your players with its informations (such as IP address) etc. It can be really useful as it can give you trends about your player base or might help you identify unexpected connection pattern or malicious activities. Use it 
+Description : A connection logger for your administration team. Register your players with its informations and data (such as IP address) etc. It can be really useful as it can give you trends about your player base or might help you identify unexpected connection pattern or malicious activities. I recommend you use it for analytics purposes.
 
 **Note :** Will be uploaded soon.
 > **Note :** If you can't manage to run or execute SQL commands (queries), it won't be useful neither give you any insightful trends.
