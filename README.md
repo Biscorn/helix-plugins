@@ -6,7 +6,7 @@ Feel free to reach me on Discord **#hern9** for any suggestions or projects.
 If you have any bugs related or issues with a plugin, open an [issue](https://github.com/Biscorn/helix-plugins/issues).
 
 Use it at your convenience, I hope it will be useful to your project !
-Don't forget to credit my work at least.
+Don't forget to credit my work at least because a lot of people don't credit such as few project I've joined.
 
 ## Sprinting Prevention
 Description : Self explicit. Will prevent your player to "sprint" (by default the SHIFT key from the client) backward, left and right side.
@@ -18,7 +18,7 @@ Description : A command that can be run by a player (which play a character) to 
 Check the configuration for extra features and better control.
 
 ## Unique CID
-Description : Don't you ever dreamt to identify each citizen uniquely ? Well, with this plugin, your dream will become true !
+Description : Don't you ever dreamt to identify each citizen uniquely by a number ? Well, with this plugin, your dream will become true !
 
 **Note :** Will be uploaded soon.
 
@@ -40,4 +40,10 @@ Description : An airplane will cross the map and randomly drop cases with loot i
 Description : A connection logger for your administration team. Register your players with its informations and data (such as IP address) etc. It can be really useful as it can give you trends about your player base or might help you identify unexpected connection pattern or malicious activities. I recommend you use it for analytics purposes.
 
 **Note :** Will be uploaded soon.
-> **Note :** If you can't manage to run or execute SQL commands (queries), it won't be useful neither give you any insightful trends.
+> **Extra note :** If you can't manage to run or execute SQL commands (queries), it won't be useful neither give you any insightful trends.
+
+## Sleep System
+**Note :** Will be uploaded soon.
+
+## Organization System
+**Note :** Will be uploaded soon.
