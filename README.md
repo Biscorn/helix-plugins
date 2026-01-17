@@ -47,3 +47,6 @@ Description : A connection logger for your administration team. Register your pl
 
 ## Organization System
 **Note :** Will be uploaded soon.
+
+** Discord Chat Integration
+**Note :** Will be uploaded soon.
