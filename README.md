@@ -28,7 +28,7 @@ Description : Use the base_food entity base to make specific entity that can be 
 **Note :** Does nothing on its own. You need additionnal Lua skills.
 For example, if you have an "attribute" plugin the system will be interesting to implement with.
 
-## Plane Drop
+## Airplane
 Description : An airplane will cross the map and randomly drop cases with loot inside each crate (up to 3), and configurable. Each crate is randomly generated and its content is randomly generated according to a config file.
 
 **Note :** It can clearly be improved and optimized at some point (usage of the think function, item shuffling, configuration for better control...).
@@ -48,5 +48,5 @@ Description : A connection logger for your administration team. Register your pl
 ## Organization System
 **Note :** Will be uploaded soon.
 
-** Discord Chat Integration
+## Discord Chat Integration
 **Note :** Will be uploaded soon.
